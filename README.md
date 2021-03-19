@@ -1,25 +1,28 @@
 # Measuring Outcome - French Translation
-*NOTE: THIS TRANSLATION IS A WORK IN PROGRESS AND NOT YET USABLE*
+*NOTE: CETTE TRANSLATION EST UN TRAVAIL EN COURS ET N'EST PAS ENCORE UTILISABLE*
 
-**Hi Scrum Facilitators!**
+**Bonjour chers Scrum Facilitateurs!** / **Bonjour chers Animateurs Scrum!** 
 
-Welcome to the Measuring Outcome wiki.
+Bienvenue sur le wiki de Mesure des Résultats.
 
 This game is based on Evidence-Based Management (EBM). EBM is an empirical framework which organizations can use to help measure the (perceived) product value and the way they deliver their product(s). The measurements can be inspected to help maximize product value and improve the way of working.
 
-## The KVMs are not set in stone
+Ce jeu est basé sur le Management par Preuves (Evidence-Based Management, nous utiliserons l'acronyme anglais "EBM" dans le reste du jeu). L'EBM est un cadre empirique que les organisations peuvent utiliser pour aider à mesurer la valeur (perçue) du produit et la façon dont elles livrent(tbc) leurs produits. Les mesures peuvent être evaluées pour aider à maximiser la valeur du produit et améliorer la façon de travailler.
 
-Keep in mind that the KVMs are not set in stone. These are measures suggested from the EBM framework. During the game, you’ll have opportunities to reflect on these KVMs, discuss and come up with new valuable KVMs yourself.
+## Les KVMs ne sont pas scelles dans la pierre
 
-## To make your life easier
+Gardez à l'esprit que les Mesures de Valeurs Clé (KVM) ne sont pas scellés dans la pierre. Ce sont des mesures suggérées à partir du cadre EBM. Pendant le jeu, vous aurez l’occasion de réfléchir à ces KVMs, de discuter et de créer vous-même de nouveaux KVM de valeur.
 
-To make life easier, we’ve included a manual on how to facilitate this exercise and a Cheat Sheet where all the Key Value Measures (KVMs) are explained so relax... Now you can focus totally on the exercise as a facilitator.
+
+## Pour vous simplifier la vie
+
+Pour vous faciliter la vie, nous avons inclus un manuel sur la façon de faciliter cet exercice et une aide-mémoire où toutes les mesures de valeurs clés (KVM) sont expliquées, alors détendez-vous ... Vous pouvez maintenant vous concentrer totalement sur l'exercice en tant qu'animateur.
 
 ## Releases
 
-Use the **Release** to get the most stable and updated version of the Measuring Outcome Exercise. We’ll promise to keep it updated ;-)
+Utilisez la **Release** pour obtenir la version la plus stable et la plus à jour de l'Exercice de Mesure des Résultats. Nous vous promettons de la tenir à jour ;-)
 
-## Other languages
+## Autres langues
 
 - [Measure Outcomes](https://github.com/ScrumFacilitators/measuringoutcome-en/releases/latest) (english) / Engels (original)
 - [Uitkomsten Meten](https://github.com/ScrumFacilitators/measuringoutcome-nl/releases/latest) (nederlands) / Translation in dutch
@@ -30,14 +33,14 @@ Use the **Release** to get the most stable and updated version of the Measuring 
 
 ## License
 
-Measuring Outcome by Scrum Facilitators is licensed under [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/). All the materials in this repository are subject to this license. See the above link for a human readable summary and the included LICENSE.md file for the full license text.
+Mesurer les Résultats par les Facilitateurs Scrum est autorisée sous [CC BY-NC-SA] (https://creativecommons.org/licenses/by-nc-sa/4.0/). Tous les supports dans ce référentiel sont soumis à cette licence. Voir le lien ci-dessus pour un résumé lisible et le fichier LICENSE.md inclus pour le texte complet de la licence.
 
-*There is a 0,000001% chance that you will come up with a better design. If this is the case, do feel free to change it. We would love it if you could mention us 👍
+*Il y a 0,000001% de chances que vous arriviez à un meilleur design. There is a 0,000001% chance that you will come up with a better design. Si tel est le cas, n'hésitez pas à le changer, l'ameliorer. Nous serions ravis que vous nous mentionniez 👍
 
 ***
 
-Have fun!
-Greetings from the Scrum Facilitators crew
+Amusez-vous bien!
+Salutations de l'équipe des Facilitateurs Scrum
 
 www.scrumfacilitators.nl
 
