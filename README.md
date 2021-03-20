@@ -5,8 +5,6 @@
 
 Bienvenue sur le wiki de Mesure des Résultats.
 
-This game is based on Evidence-Based Management (EBM). EBM is an empirical framework which organizations can use to help measure the (perceived) product value and the way they deliver their product(s). The measurements can be inspected to help maximize product value and improve the way of working.
-
 Ce jeu est basé sur le Management par Preuves (Evidence-Based Management, nous utiliserons l'acronyme anglais "EBM" dans le reste du jeu). L'EBM est un cadre empirique que les organisations peuvent utiliser pour aider à mesurer la valeur (perçue) du produit et la façon dont elles livrent(tbc) leurs produits. Les mesures peuvent être evaluées pour aider à maximiser la valeur du produit et améliorer la façon de travailler.
 
 ## Les KVMs ne sont pas scelles dans la pierre
