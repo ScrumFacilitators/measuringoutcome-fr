@@ -1,7 +1,7 @@
 # Measuring Outcome - French Translation
 *NOTE: CETTE TRANSLATION EST UN TRAVAIL EN COURS ET N'EST PAS ENCORE UTILISABLE*
 
-**Bonjour chers Scrum Facilitateurs!** / **Bonjour chers Animateurs Scrum!** 
+**Bonjour chers Scrum Facilitateurs!** / **Bonjour chers Animateurs Scrum!**
 
 Bienvenue sur le wiki de Mesure des Résultats.
 
@@ -33,7 +33,7 @@ Utilisez la **Release** pour obtenir la version la plus stable et la plus à jou
 
 Mesurer les Résultats par les Facilitateurs Scrum est autorisée sous [CC BY-NC-SA] (https://creativecommons.org/licenses/by-nc-sa/4.0/). Tous les supports dans ce référentiel sont soumis à cette licence. Voir le lien ci-dessus pour un résumé lisible et le fichier LICENSE.md inclus pour le texte complet de la licence.
 
-*Il y a 0,000001% de chances que vous arriviez à un meilleur design. There is a 0,000001% chance that you will come up with a better design. Si tel est le cas, n'hésitez pas à le changer, l'ameliorer. Nous serions ravis que vous nous mentionniez 👍
+*Il y a 0,000001% de chances que vous arriviez à un meilleur design. Si tel est le cas, n'hésitez pas à le changer, l'ameliorer. Nous serions ravis que vous nous mentionniez 👍
 
 ***
 
